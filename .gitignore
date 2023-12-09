@@ -53,4 +53,5 @@ dkms.conf
 wav2c
 sound.c
 sound.m
-*.wav
+/example
+/compile_commands.json
